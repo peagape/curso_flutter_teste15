@@ -67,7 +67,7 @@ class _HomePageState extends State<HomePage> {
                   color: Colors.black,
 
                   child: Center(
-                    child: Text('Desafio aula 15', style: TextStyle(color: Colors.white, fontSize: 20),),
+                    child: Text('Desafio aula 15 x', style: TextStyle(color: Colors.white, fontSize: 20),),
                   ),
                 ),
               ],
